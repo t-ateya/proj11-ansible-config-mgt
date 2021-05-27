@@ -1,0 +1,27 @@
+---
+
+  - name: play for all servers
+    hosts: all
+    become: yes
+
+    tasks:
+      - name: update yum repo
+        yum:
+          name: "*"
+          state: present
+          update_cache: yes
+
+      - name: install nfs client, ntpdate, chronyd
+        yum: 
+          name: "{{ item }}"
+          state: present
+        loop: 
+          - nfs-utils
+          - chrony
+          
+
+
+      
+
+
+
