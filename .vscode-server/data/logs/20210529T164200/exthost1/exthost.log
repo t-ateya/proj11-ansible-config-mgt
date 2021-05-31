@@ -1,0 +1,4 @@
+[2021-05-29 16:42:01.751] [exthost] [info] extension host started
+[2021-05-29 16:42:02.268] [exthost] [info] eager extensions activated
+[2021-05-29 16:45:08.007] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-29 16:45:09.008] [exthost] [info] exiting with code 0

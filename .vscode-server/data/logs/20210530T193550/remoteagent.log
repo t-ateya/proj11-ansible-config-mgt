@@ -1,0 +1,31 @@
+[2021-05-30 19:35:50.930] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-05-30 19:35:50.930] [remoteagent] [info] Extension host agent started.
+[2021-05-30 19:35:51.209] [remoteagent] [info] [127.0.0.1][7c8353e1][ManagementConnection] New connection established.
+[2021-05-30 19:35:51.223] [remoteagent] [info] [127.0.0.1][11175f24][ExtensionHostConnection] New connection established.
+[2021-05-30 19:35:51.329] [remoteagent] [info] [127.0.0.1][11175f24][ExtensionHostConnection] <1435> Launched Extension Host Process.
+[2021-05-30 19:36:43.823] [remoteagent] [info] [127.0.0.1][7c8353e1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-05-30 19:36:44.833] [remoteagent] [info] [127.0.0.1][11175f24][ExtensionHostConnection] <1435> Extension Host Process exited with code: 0, signal: null.
+[2021-05-30 19:36:44.833] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-05-30 19:36:51.766] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-05-30 19:36:51.766] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-05-30 19:36:52.089] [remoteagent] [info] [127.0.0.1][1b2ce57f][ManagementConnection] New connection established.
+[2021-05-30 19:36:52.217] [remoteagent] [info] [127.0.0.1][ef69d5ed][ExtensionHostConnection] New connection established.
+[2021-05-30 19:36:52.220] [remoteagent] [info] [127.0.0.1][ef69d5ed][ExtensionHostConnection] <1623> Launched Extension Host Process.
+[2021-05-30 19:41:51.769] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-05-30 23:12:14.400] [remoteagent] [info] [127.0.0.1][1b2ce57f][ManagementConnection] The client has reconnected.
+[2021-05-30 23:12:14.518] [remoteagent] [info] [127.0.0.1][ef69d5ed][ExtensionHostConnection] The client has reconnected.
+[2021-05-31 05:46:41.866] [remoteagent] [info] [127.0.0.1][1b2ce57f][ManagementConnection] The client has reconnected.
+[2021-05-31 05:46:42.260] [remoteagent] [info] [127.0.0.1][ef69d5ed][ExtensionHostConnection] The client has reconnected.
+[2021-05-31 11:48:00.882] [remoteagent] [info] [127.0.0.1][1b2ce57f][ManagementConnection] The client has reconnected.
+[2021-05-31 11:48:32.001] [remoteagent] [info] [127.0.0.1][ef69d5ed][ExtensionHostConnection] The client has reconnected.
+[2021-05-31 18:04:03.529] [remoteagent] [info] [127.0.0.1][1b2ce57f][ManagementConnection] The client has reconnected.
+[2021-05-31 18:04:04.993] [remoteagent] [info] [127.0.0.1][ef69d5ed][ExtensionHostConnection] The client has reconnected.

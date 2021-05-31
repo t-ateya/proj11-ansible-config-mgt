@@ -1,0 +1,36 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 45733
+
+[19:35:50] Extension host agent started.
+[19:35:51] [127.0.0.1][7c8353e1][ManagementConnection] New connection established.
+[19:35:51] [127.0.0.1][11175f24][ExtensionHostConnection] New connection established.
+[19:35:51] [127.0.0.1][11175f24][ExtensionHostConnection] <1435> Launched Extension Host Process.
+[19:36:43] [127.0.0.1][7c8353e1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:36:44] [127.0.0.1][11175f24][ExtensionHostConnection] <1435> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[19:36:44] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[19:36:51] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[19:36:51] Cancelling previous shutdown timeout
+[19:36:52] [127.0.0.1][1b2ce57f][ManagementConnection] New connection established.
+[19:36:52] [127.0.0.1][ef69d5ed][ExtensionHostConnection] New connection established.
+[19:36:52] [127.0.0.1][ef69d5ed][ExtensionHostConnection] <1623> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[19:41:51] New EH opened, aborting shutdown
+[23:12:14] [127.0.0.1][1b2ce57f][ManagementConnection] The client has reconnected.
+[23:12:14] [127.0.0.1][ef69d5ed][ExtensionHostConnection] The client has reconnected.
+[05:46:41] [127.0.0.1][1b2ce57f][ManagementConnection] The client has reconnected.
+[05:46:42] [127.0.0.1][ef69d5ed][ExtensionHostConnection] The client has reconnected.
+[11:48:00] [127.0.0.1][1b2ce57f][ManagementConnection] The client has reconnected.
+[11:48:32] [127.0.0.1][ef69d5ed][ExtensionHostConnection] The client has reconnected.
+[18:04:03] [127.0.0.1][1b2ce57f][ManagementConnection] The client has reconnected.
+[18:04:04] [127.0.0.1][ef69d5ed][ExtensionHostConnection] The client has reconnected.
