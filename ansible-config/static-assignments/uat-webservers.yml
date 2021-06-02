@@ -1,7 +1,7 @@
 ---
 - hosts: uat-webservers
   roles:
-     - role: '/home/ubuntu/ansible-config-mgt/roles/webserver'
+     - role: '/home/ubuntu/ansible-config-mgt/roles/mysql'
 
 
 
